@@ -1,3 +1,11 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.v9.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.v9.svg">
+  <img alt="Guido Gentile - Developer Profile" src="./assets/banner-dark.v9.svg" width="100%">
+</picture>
+
+<br>
+
 <h1 align="center">Hi 👋, I'm Guido Gentile</h1>
 
 <h3 align="center">
