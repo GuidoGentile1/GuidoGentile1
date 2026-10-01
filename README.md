@@ -79,9 +79,9 @@ Collection of Python projects and exercises focused on problem-solving and progr
 
 Password management project designed to securely generate and manage passwords.
 
-**Technologies:** Python
+**Technologies:** HTML
 
-<a href="LINK-DE-GUIDOPASSKEY">
+<a href="https://github.com/GuidoGentile1/GuidoPassKey">
   🔗 View Project
 </a>
 
